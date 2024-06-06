@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepthinker-88
-- 👀 I’m interested in football, fitness and programming
+- 👀 I’m interested in football, fitness and programming and I am looking for my first Entry-Level/Junior Developer role
 - 🌱 I’m currently learning how to become a better developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
