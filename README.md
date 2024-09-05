@@ -1,5 +1,4 @@
 <div align="center">
-  <a href="https://deepthinker-88.io">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFiazZyeDJiNG0zZTV2dDViOTRtdzdhM2RjN2ZqeWh2YnQ3N3Y0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.webp" alt="MasterHead" width="500px" />
   </a>
 </div>
