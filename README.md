@@ -3,7 +3,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm James-Leigh Taylor</h1>
-<h3 align="center">A coding bootcamp graduate based in London</h3>
+<h3 align="center">A coding bootcamp graduate and aspiring Junior Full Stack developer based in London</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&s"
 
 - 🔭 I’m currently working on **Fitness Website using React and JavaScript**
