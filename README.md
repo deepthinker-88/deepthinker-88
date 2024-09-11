@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **how to become 1% better each day and to become proficient in TDD**
 
-- 💬 Ask me about **anything related to football**
+- 💬 Ask me about **anything about anything**
 
 - 📫 How to reach me **jamesleight@googlemail.com**
 
