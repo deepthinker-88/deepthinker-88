@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Fitness Website using the MERN Stack**
 
-- 🌱 I’m currently learning **how to become 1% better each day**
+- 🌱 I’m currently learning **how to become 1% better each day and to become proficient in TDD**
 
 - 💬 Ask me about **anything related to football**
 
