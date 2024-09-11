@@ -10,11 +10,9 @@
 
 - 🌱 I’m currently learning **how to become a better developer**
 
-- 💬 Ask me about **Python, Django, and anything related to football**
+- 💬 Ask me about **anything related to football**
 
 - 📫 How to reach me **jamesleight@googlemail.com**
-
-- ⚡ Fun fact **I support Chelsea Football Club**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
