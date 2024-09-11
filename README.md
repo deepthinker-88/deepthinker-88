@@ -6,9 +6,9 @@
 <h3 align="center">A coding bootcamp graduate based in London</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&s"
 
-- 🔭 I’m currently working on **Fitness Website using React and JavaScript**
+- 🔭 I’m currently working on **Fitness Website using the MERN Stack**
 
-- 🌱 I’m currently learning **how to become a better developer**
+- 🌱 I’m currently learning **how to become 1% better each day**
 
 - 💬 Ask me about **anything related to football**
 
